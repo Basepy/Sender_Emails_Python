@@ -8,7 +8,7 @@ from email.mime.multipart import MIMEMultipart
 server_smtp = "smtp.gmail.com" 
 port = 587     
 sender_email = "inserir_seu_email@gmail.com"
-password = "sjlfpddodkdlkjvdfvd" #gerar senhas de app na sua conta google
+password = "insira_sua_senha_aqui" #gerar senhas de app na sua conta google
 
 #configurações do email
 receive_email  = "emaildestino@gmail.com" #pode ser qualquer email
